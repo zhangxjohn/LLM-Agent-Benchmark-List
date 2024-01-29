@@ -1,6 +1,8 @@
 # LLM-Agent-Benchmark
 
+🤗**We greatly appreciate any contributions via PRs, issues, emails, or other methods.**
 
+⏳ **Continuous update...**
 
 ## :book: Introduction
 
