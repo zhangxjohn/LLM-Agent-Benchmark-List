@@ -1,4 +1,4 @@
-# LLM-Agent-Benchmark
+# LLM-Agent-Benchmark-List
 
 🤗**We greatly appreciate any contributions via PRs, issues, emails, or other methods.**
 
