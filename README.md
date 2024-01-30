@@ -12,14 +12,15 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 
 ## :dizzy: List
 
-- [2023/12] **A Survey on Evaluation of Large Language Models.** *Yupeng Chang ( Jilin University) et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.03109.pdf)] [[project page](https://github.com/MLGroupJLU/LLM-eval-survey)]
-
+- [2023/07] **A Survey on Evaluation of Large Language Models.** *Yupeng Chang ( Jilin University) et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.03109.pdf)] [[project page](https://github.com/MLGroupJLU/LLM-eval-survey)]
+- [2023/10] **Evaluating Large Language Models: A Comprehensive Survey.** *Zishan Guo (Tianjin) et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.19736.pdf)] [[project page](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)]
 - [2023/11] **Benchmarking Foundation Models with Language-Model-as-an-Examiner.** *Yushi Bai (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.04181.pdf)]
 - [2023/08] **Large Language Models are not Fair Evaluators.** *Peiyi Wang (Peking) et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.17926.pdf)] [[project page](https://github.com/i-Eval/FairEval)]
-
 - [2023/09] **Evaluating Cognitive Maps and Planning in Large Language Models with CogEval.** *Ida Momennejad (Microsoft)  et al. arXiv.*  [[paper](https://arxiv.org/pdf/2309.15129.pdf)]
 - [2023/04] **SocialDial: A Benchmark for Socially-Aware Dialogue Systems.** *Haolan Zhan (Monash) et al. SIGIR.* [[paper](https://arxiv.org/pdf/2304.12026.pdf)] [[project page](https://github.com/zhanhl316/SocialDial)]
 - [2023/07] **Emotional Intelligence of Large Language Models.** *Xuena Wang (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/ftp/arxiv/papers/2307/2307.09042.pdf)]
+- [2023/11] **Rethinking Benchmark and Contamination for Language Models with Rephrased Samples.** *Shuo Yang (1UC Berkeley) et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.04850.pdf)] [[project page](https://github.com/lm-sys/llm-decontaminator)]
+- [2023/08] **LLMeBench: A Flexible Framework for Accelerating LLMs Benchmarking.** *Fahim Dalvi (HBKU) et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.04945.pdf)] [[project page](https://github.com/qcri/LLMeBench/)]
 
 ----------------------
 
@@ -34,11 +35,42 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 #### Multimodal
 
 - [2023/11] **M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models.** *Wenxuan Zhang (Alibaba) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.05179.pdf)] [[project page](https://github.com/DAMO-NLP-SG/M3Exam?tab=readme-ov-file)]
-
 - [2023/11] **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.** *Yejin Bang (CAiRE) et al. arXiv.* [[paper](https://arxiv.org/pdf/2302.04023.pdf)] [[project page](https://github.com/HLTCHKUST/chatgpt-evaluation)]
 - [2023/12] **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models.** *Chaoyou Fu (Tencent) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.13394.pdf)] [[project page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
-
 - [2024/01] **Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision.** *Haoning Wu (Nanyang Technological University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.14181)] [[project page](https://github.com/Q-Future/Q-Bench?tab=readme-ov-file)]
+- [2023/10] **Beyond Task Performance: Evaluating and Reducing the Flaws of Large Multimodal Models with In-Context Learning.** *Mustafa Shukor (Sorbonne University) et al. ICLR.* [[paper](https://arxiv.org/pdf/2310.00647.pdf)] [[project page](https://github.com/mshukor/EvALign-ICL)]
+
+----------------------------------
+
+#### Reasoning
+
+- [2024/01] **NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes.** *Lizhou Fan (Michigan) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.14890v2.pdf)] [[project page](https://github.com/casmlab/NPHardEval)]
+- [2024/01] **A Survey of Reasoning with Foundation Models.** *Jiankai Sun (CUHK) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.11562.pdf)] [[project page](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
+
+------------------------------------
+
+#### Knowledge
+
+- [2023/12] **Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications.** *Zhangyin Feng (Harbin Institute of Technology) et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.05876.pdf)]
+- [2023/09] **Benchmarking Large Language Models in Retrieval-Augmented Generation.** *Jiawei Chen (CIPL) et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.01431.pdf)]
+
+-----------------------------------
+
+#### Graph
+
+- [2023/09] **Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis.** *Chang Liu (Colorado School of Mines) et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.11224.pdf)] [[project page](https://github.com/Ayame1006/LLMtoGraph)]
+
+-----------------------------------------
+
+#### Video
+
+- [2023/10] **EvalCrafter: Benchmarking and Evaluating Large Video Generation Models.** *Yaofang Liu (Tencent) et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.11440.pdf)] [[project page](https://evalcrafter.github.io/)]
+
+---------------------------------
+
+#### Alignment
+
+- [2023/12] **AlignBench: Benchmarking Chinese Alignment of Large Language Models.** *Xiao Liu (KEG) et al. arXiv.* * [[paper](https://arxiv.org/pdf/2311.18743.pdf)] [[project page](https://github.com/THUDM/AlignBench)]
 
 ----------------------------
 
@@ -46,6 +78,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 
 - [2023/10] **AgentBench: Evaluating LLMs as Agents.**  *Xiao Liu (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.03688)] [[project page](https://github.com/THUDM/AgentBench)]
 - [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation.** *Jiaju Lin (PTA Studio) et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.04026.pdf)] 
+- [2023/12] **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives.** *Chen Gao (Tsinghua) et al. arXiv.* * [[paper](https://arxiv.org/pdf/2312.11970.pdf)]
 
 -----------------------------------
 
