@@ -15,12 +15,17 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2023/07] **A Survey on Evaluation of Large Language Models.** *Yupeng Chang ( Jilin University) et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.03109.pdf)] [[project page](https://github.com/MLGroupJLU/LLM-eval-survey)]
 - [2023/10] **Evaluating Large Language Models: A Comprehensive Survey.** *Zishan Guo (Tianjin) et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.19736.pdf)] [[project page](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)]
 - [2023/11] **Benchmarking Foundation Models with Language-Model-as-an-Examiner.** *Yushi Bai (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.04181.pdf)]
+- [2023/08] **LLMeBench: A Flexible Framework for Accelerating LLMs Benchmarking.** *Fahim Dalvi (HBKU) et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.04945.pdf)] [[project page](https://github.com/qcri/LLMeBench/)]
+- [2024/01] **PromptBench: A Unified Library for Evaluation of Large Language Models.** *Kaijie Zhu (MSRA) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.07910.pdf)] [[project page](https://github.com/microsoft/promptbench)]
+- [2023/11] **TencentLLMEval: A Hierarchical Evaluation of Real-World Capabilities for Human-Aligned LLMs.** *Shuyi Xie (Tencent) et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.05374.pdf)] [[project page](https://github.com/xsysigma/TencentLLMEval)]
+- [2024/01] **Benchmarking LLMs via Uncertainty Quantification.** *Fanghua Ye (Tencent) et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.12794.pdf)] [[project page](https://github.com/smartyfh/LLM-Uncertainty-Bench)]
+- [2023/12] **LLMEval: A Preliminary Study on How to Evaluate Large Language Models.** *Yue Zhang (Fudan) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.07398.pdf)] [[project page](https://github.com/llmeval)]
 - [2023/08] **Large Language Models are not Fair Evaluators.** *Peiyi Wang (Peking) et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.17926.pdf)] [[project page](https://github.com/i-Eval/FairEval)]
 - [2023/09] **Evaluating Cognitive Maps and Planning in Large Language Models with CogEval.** *Ida Momennejad (Microsoft)  et al. arXiv.*  [[paper](https://arxiv.org/pdf/2309.15129.pdf)]
 - [2023/04] **SocialDial: A Benchmark for Socially-Aware Dialogue Systems.** *Haolan Zhan (Monash) et al. SIGIR.* [[paper](https://arxiv.org/pdf/2304.12026.pdf)] [[project page](https://github.com/zhanhl316/SocialDial)]
 - [2023/07] **Emotional Intelligence of Large Language Models.** *Xuena Wang (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/ftp/arxiv/papers/2307/2307.09042.pdf)]
-- [2023/11] **Rethinking Benchmark and Contamination for Language Models with Rephrased Samples.** *Shuo Yang (1UC Berkeley) et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.04850.pdf)] [[project page](https://github.com/lm-sys/llm-decontaminator)]
-- [2023/08] **LLMeBench: A Flexible Framework for Accelerating LLMs Benchmarking.** *Fahim Dalvi (HBKU) et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.04945.pdf)] [[project page](https://github.com/qcri/LLMeBench/)]
+- [2024/01] **Assessing and Understanding Creativity in Large Language Models.** *Yunpu Zhao (USTC) et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.12491.pdf)]
+- [2023/11] **Rethinking Benchmark and Contamination for Language Models with Rephrased Samples.** *Shuo Yang (UC Berkeley) et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.04850.pdf)] [[project page](https://github.com/lm-sys/llm-decontaminator)]
 
 ----------------------
 
@@ -29,6 +34,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2023/10] **API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs.** *Minghao Li (Alibaba) et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.08244.pdf)] [[project page](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
 - [2023/05] **On the Tool Manipulation Capability of Open-source Large Language Models.** *Qiantong Xu (SambaNova) et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.16504.pdf)] [[project page](https://github.com/sambanova/toolbench)]
 - [2023/10] **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs.**  *Yujia Qin (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.16789.pdf)] [[project page](https://github.com/OpenBMB/ToolBench)]
+- [2024/01] **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step.** *Zehui Chen (USTC) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.14033.pdf)] [[project page](https://github.com/open-compass/T-Eval)]
 
 ---------------
 
@@ -39,6 +45,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2023/12] **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models.** *Chaoyou Fu (Tencent) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.13394.pdf)] [[project page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
 - [2024/01] **Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision.** *Haoning Wu (Nanyang Technological University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.14181)] [[project page](https://github.com/Q-Future/Q-Bench?tab=readme-ov-file)]
 - [2023/10] **Beyond Task Performance: Evaluating and Reducing the Flaws of Large Multimodal Models with In-Context Learning.** *Mustafa Shukor (Sorbonne University) et al. ICLR.* [[paper](https://arxiv.org/pdf/2310.00647.pdf)] [[project page](https://github.com/mshukor/EvALign-ICL)]
+- [2023/12] **InfiMM-Eval: Complex Open-ended Reasoning Evaluation for Multi-modal Large Language Models.** *Xiaotian Han (ByteDance ) et al. arXiv.* * [[paper](https://arxiv.org/pdf/2311.11567.pdf)] [[project page](https://infimm.github.io/InfiMM-Eval/)]
 
 ----------------------------------
 
@@ -46,6 +53,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 
 - [2024/01] **NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes.** *Lizhou Fan (Michigan) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.14890v2.pdf)] [[project page](https://github.com/casmlab/NPHardEval)]
 - [2024/01] **A Survey of Reasoning with Foundation Models.** *Jiankai Sun (CUHK) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.11562.pdf)] [[project page](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
+- [2024/01] **LLMs for Relational Reasoning: How Far are We?** *Zhiming Li (NTU) et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.09042.pdf)]
 
 ------------------------------------
 
@@ -66,6 +74,13 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 
 - [2023/10] **EvalCrafter: Benchmarking and Evaluating Large Video Generation Models.** *Yaofang Liu (Tencent) et al. arXiv.* [[paper](https://arxiv.org/pdf/2310.11440.pdf)] [[project page](https://evalcrafter.github.io/)]
 
+-----------------------------------
+
+#### Code
+
+- [2023/08] **Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation.** *Zhiqiang Yuan (Fudan) et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.01240.pdf)]
+- [2024/01] **CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution.** *Alex Gu (Meta) et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.03065.pdf)]
+
 ---------------------------------
 
 #### Alignment
@@ -79,6 +94,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2023/10] **AgentBench: Evaluating LLMs as Agents.**  *Xiao Liu (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.03688)] [[project page](https://github.com/THUDM/AgentBench)]
 - [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation.** *Jiaju Lin (PTA Studio) et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.04026.pdf)] 
 - [2023/12] **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives.** *Chen Gao (Tsinghua) et al. arXiv.* * [[paper](https://arxiv.org/pdf/2312.11970.pdf)]
+- [2024/01] ***CharacterEval*: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation.** *Quan Tu (GSAI) et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.01275.pdf)] [[project page](https://github.com/morecry/CharacterEval)]
 
 -----------------------------------
 
