@@ -26,25 +26,15 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2023/10] **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs.**  *Yujia Qin (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.16789.pdf)] [[project page](https://github.com/OpenBMB/ToolBench)]
 - [2024/01] **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step.** *Zehui Chen (USTC) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.14033.pdf)] [[project page](https://github.com/open-compass/T-Eval)]
 
----------------
-
-#### Multimodal
-
-- [2023/11] **M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models.** *Wenxuan Zhang (Alibaba) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.05179.pdf)] [[project page](https://github.com/DAMO-NLP-SG/M3Exam?tab=readme-ov-file)]
-- [2023/11] **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.** *Yejin Bang (CAiRE) et al. arXiv.* [[paper](https://arxiv.org/pdf/2302.04023.pdf)] [[project page](https://github.com/HLTCHKUST/chatgpt-evaluation)]
-- [2023/12] **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models.** *Chaoyou Fu (Tencent) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.13394.pdf)] [[project page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
-- [2024/01] **Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision.** *Haoning Wu (Nanyang Technological University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.14181)] [[project page](https://github.com/Q-Future/Q-Bench?tab=readme-ov-file)]
-- [2023/10] **Beyond Task Performance: Evaluating and Reducing the Flaws of Large Multimodal Models with In-Context Learning.** *Mustafa Shukor (Sorbonne University) et al. ICLR.* [[paper](https://arxiv.org/pdf/2310.00647.pdf)] [[project page](https://github.com/mshukor/EvALign-ICL)]
-- [2023/12] **InfiMM-Eval: Complex Open-ended Reasoning Evaluation for Multi-modal Large Language Models.** *Xiaotian Han (ByteDance ) et al. arXiv.* * [[paper](https://arxiv.org/pdf/2311.11567.pdf)] [[project page](https://infimm.github.io/InfiMM-Eval/)]
-
-----------------------------------
+----------------------------
 
 #### Reasoning
 
 - [2024/01] **NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes.** *Lizhou Fan (Michigan) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.14890v2.pdf)] [[project page](https://github.com/casmlab/NPHardEval)]
 - [2024/01] **A Survey of Reasoning with Foundation Models.** *Jiankai Sun (CUHK) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.11562.pdf)] [[project page](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
 - [2024/01] **LLMs for Relational Reasoning: How Far are We?** *Zhiming Li (NTU) et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.09042.pdf)]
-- [2023/08] **Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond.** *Fangzhi Xu ( Xi’an Jiaotong University) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.09841.pdf)]
+- [2023/08] **Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond.** *Fangzhi Xu ( Xi’an Jiaotong University) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.09841.pdf)] [[project page](https://github.com/DeepReasoning/NeuLR)]
+- [2023/11] **PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change.** *Karthik Valmeekam (ASU) et al. arXiv.* [[paper](https://arxiv.org/pdf/2206.10498.pdf)] [[project page](https://github.com/karthikv792/LLMs-Planning)]
 
 ------------------------------------
 
@@ -89,15 +79,21 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2024/01] ***CharacterEval*: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation.** *Quan Tu (GSAI) et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.01275.pdf)] [[project page](https://github.com/morecry/CharacterEval)]
 - [2023/10] **WebArena: A Realistic Web Environment for Building Autonomous Agents.** *Shuyan Zhou (CMU) et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.13854.pdf)] [[project page](https://webarena.dev/)]
 - [2024/01] **Evaluating Language-Model Agents on Realistic Autonomous Tasks.** *Megan Kinniment (METR ) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.11671.pdf)] [[project page](https://metr.org/)]
+- [2023/11] **MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration.** *Lin Xu (NUS) et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.08562.pdf)] [[project page](https://github.com/cathyxl/MAgIC)]
+- [2023/12] **LLF-Bench: Benchmark for Interactive Learning from Language Feedback.** *Ching-An Cheng (Microsoft) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.06853.pdf)] [[project page](https://microsoft.github.io/LLF-Bench/)]
 
 -----------------------------------
 
-#### Dataset
+#### Multimodal
 
-- [2023/10] **Investigating Table-to-Text Generation Capabilities of LLMs in Real-World Information Seeking Scenarios.** *Yilun Zhao (Yale) EMNLP.* [[paper](https://aclanthology.org/2023.emnlp-industry.17.pdf)] [[project page](https://github.com/yale-nlp/LLM-T2T)]
-- [2023/10] **Empower Large Language Model to Perform Better on Industrial Domain-Specific Question Answering.** *Fangkai Yang (Microsoft) EMNLP.*[[paper](https://arxiv.org/pdf/2305.11541.pdf)] [[project page](https://github.com/microsoft/Microsoft-Q-A-MSQA-)]
+- [2023/11] **M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models.** *Wenxuan Zhang (Alibaba) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.05179.pdf)] [[project page](https://github.com/DAMO-NLP-SG/M3Exam?tab=readme-ov-file)]
+- [2023/11] **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.** *Yejin Bang (CAiRE) et al. arXiv.* [[paper](https://arxiv.org/pdf/2302.04023.pdf)] [[project page](https://github.com/HLTCHKUST/chatgpt-evaluation)]
+- [2023/12] **MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models.** *Chaoyou Fu (Tencent) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.13394.pdf)] [[project page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
+- [2024/01] **Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision.** *Haoning Wu (Nanyang Technological University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.14181)] [[project page](https://github.com/Q-Future/Q-Bench?tab=readme-ov-file)]
+- [2023/10] **Beyond Task Performance: Evaluating and Reducing the Flaws of Large Multimodal Models with In-Context Learning.** *Mustafa Shukor (Sorbonne University) et al. ICLR.* [[paper](https://arxiv.org/pdf/2310.00647.pdf)] [[project page](https://github.com/mshukor/EvALign-ICL)]
+- [2023/12] **InfiMM-Eval: Complex Open-ended Reasoning Evaluation for Multi-modal Large Language Models.** *Xiaotian Han (ByteDance ) et al. arXiv.* * [[paper](https://arxiv.org/pdf/2311.11567.pdf)] [[project page](https://infimm.github.io/InfiMM-Eval/)]
 
-------------------------------
+----------------------------------
 
 #### Others
 
@@ -115,6 +111,12 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2023/11] **Rethinking Benchmark and Contamination for Language Models with Rephrased Samples.** *Shuo Yang (UC Berkeley) et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.04850.pdf)] [[project page](https://github.com/lm-sys/llm-decontaminator)]
 
 ----------------------
+#### Dataset
+
+- [2023/10] **Investigating Table-to-Text Generation Capabilities of LLMs in Real-World Information Seeking Scenarios.** *Yilun Zhao (Yale) EMNLP.* [[paper](https://aclanthology.org/2023.emnlp-industry.17.pdf)] [[project page](https://github.com/yale-nlp/LLM-T2T)]
+- [2023/10] **Empower Large Language Model to Perform Better on Industrial Domain-Specific Question Answering.** *Fangkai Yang (Microsoft) EMNLP.*[[paper](https://arxiv.org/pdf/2305.11541.pdf)] [[project page](https://github.com/microsoft/Microsoft-Q-A-MSQA-)]
+
+------------------------------
 
 #### ZhiHu
 
