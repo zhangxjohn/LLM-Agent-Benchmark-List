@@ -35,6 +35,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2024/01] **LLMs for Relational Reasoning: How Far are We?** *Zhiming Li (NTU) et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.09042.pdf)]
 - [2023/08] **Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond.** *Fangzhi Xu ( Xi’an Jiaotong University) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.09841.pdf)] [[project page](https://github.com/DeepReasoning/NeuLR)]
 - [2023/11] **PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change.** *Karthik Valmeekam (ASU) et al. arXiv.* [[paper](https://arxiv.org/pdf/2206.10498.pdf)] [[project page](https://github.com/karthikv792/LLMs-Planning)]
+- [2023/12] **Understanding Social Reasoning in Language Models with Language Models.** *Kanishk Gandhi (Stanford) et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.15448.pdf)] [[project page](https://sites.google.com/view/social-reasoning-lms)]
 
 ------------------------------------
 
