@@ -75,6 +75,8 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 
 #### Agent
 
+- [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *Wenqi Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2402.17574)] [[project page](https://github.com/zwq2018/Agent-Pro)]
+- [2024/01] **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives** *Wenqi Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2401.02009)]
 - [2023/10] **AgentBench: Evaluating LLMs as Agents.**  *Xiao Liu (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.03688)] [[project page](https://github.com/THUDM/AgentBench)]
 - [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation.** *Jiaju Lin (PTA Studio) et al. arXiv.* [[paper](https://arxiv.org/pdf/2308.04026.pdf)] 
 - [2023/12] **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives.** *Chen Gao (Tsinghua) et al. arXiv.* * [[paper](https://arxiv.org/pdf/2312.11970.pdf)]
