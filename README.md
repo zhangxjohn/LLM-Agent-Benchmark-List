@@ -87,7 +87,8 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2024/01] **Evaluating Language-Model Agents on Realistic Autonomous Tasks.** *Megan Kinniment (METR ) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.11671.pdf)] [[project page](https://metr.org/)]
 - [2023/11] **MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration.** *Lin Xu (NUS) et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.08562.pdf)] [[project page](https://github.com/cathyxl/MAgIC)]
 - [2023/12] **LLF-Bench: Benchmark for Interactive Learning from Language Feedback.** *Ching-An Cheng (Microsoft) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.06853.pdf)] [[project page](https://microsoft.github.io/LLF-Bench/)]
-- [2024/01] **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents.** *Chang Ma (The University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.13178)] [[project page](https://github.com/hkust-nlp/AgentBoard)]  
+- [2024/01] **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents.** *Chang Ma (The University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.13178)] [[project page](https://github.com/hkust-nlp/AgentBoard)]
+- [2025/03] **Benchmarking Agentic Workflow Generation.** *Shuofei Qiao (Zhejiang University) et al. ICLR.* [[paper](https://arxiv.org/abs/2410.07869)] [[project page](https://github.com/zjunlp/WorfBench)]
 
 -----------------------------------
 
