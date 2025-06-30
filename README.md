@@ -91,6 +91,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2025/03] **Benchmarking Agentic Workflow Generation.** *Shuofei Qiao (Zhejiang University) et al. ICLR.* [[paper](https://arxiv.org/abs/2410.07869)] [[project page](https://github.com/zjunlp/WorfBench)]
 - [2024/07] **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents*** *Harsh Trivedi (Stony Brook University) et al. ACL.* [[paper](https://arxiv.org/pdf/2407.18901)][[project page](https://appworld.dev/)]
 - [2024/03] **OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments** *Tianbao Xie (The University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2404.07972)][[project page](https://os-world.github.io/)]
+- [2025/06] **CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation** *Nicolas Bougie (Woven by Toyota) et al. arXiv.* [[paper](https://arxiv.org/abs/2506.21805)]
 
 -----------------------------------
 
