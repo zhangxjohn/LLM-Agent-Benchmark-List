@@ -77,6 +77,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 
 #### Agent
 - [2025/08] **OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows** *Weixuan Wang (University of Edinburgh, Microsoft) et al. arXiv.* [[paper](https://arxiv.org/abs/2508.09124)]
+- [2025/02] **WFGY 3.0 · Singularity Demo (BlackHole-131): Text only long horizon tension crash test for LLM agents over 131 S class problems.** *PSBigBig (independent).* [[project page](https://github.com/onestardao/WFGY)]
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *Wenqi Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2402.17574)] [[project page](https://github.com/zwq2018/Agent-Pro)]
 - [2024/01] **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives** *Wenqi Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2401.02009)]
 - [2023/10] **AgentBench: Evaluating LLMs as Agents.**  *Xiao Liu (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.03688)] [[project page](https://github.com/THUDM/AgentBench)]
@@ -151,6 +152,3 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 
 - [2023/11] **LLM Evaluation 如何评估一个大模型？** *Isaac 张雯轩* [[project page](https://zhuanlan.zhihu.com/p/644373658)]
 - [2023/11] **基于LLM Agent评估研究** *龚旭东* [[project page](https://zhuanlan.zhihu.com/p/669325175)]
-
-
-
