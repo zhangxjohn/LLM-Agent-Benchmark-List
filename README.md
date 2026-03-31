@@ -118,6 +118,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2025/02] **LLM-Powered Benchmark Factory: Reliable, Generic, and Efficient.** *Peiwen Yuan (Beijing Institute of Technology) et al. arXiv.* [[paper](https://arxiv.org/pdf/2502.01683)][[project page](https://github.com/ypw0102/BenchMaker)]
 - [2024/10] **DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios.** *Junchao Wu (University of Macau) et al. arXiv.* [[paper](https://arxiv.org/abs/2410.23746)]
 - [2025/02] **Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs.** *Tingting Chen (National University of Singapore) et al. arXiv.* [[paper](https://arxiv.org/pdf/2502.15224)]
+- **BenchGecko: AI Model Benchmark Comparison Platform.** Cross-benchmark comparison of 414 models across 40 benchmarks, with agent rankings (SWE-bench, WebArena) and cross-provider pricing. [[project page](https://benchgecko.ai)]
 
 ----------------------
 
