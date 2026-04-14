@@ -96,7 +96,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2025/05] **Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems** *Song Jin (RUC) et al. EMNLP.* [[paper](https://aclanthology.org/2025.emnlp-main.956/)][[project page](https://github.com/jinsong8/RecInter)]
 - [2025/06] **CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation** *Nicolas Bougie (Woven by Toyota) et al. arXiv.* [[paper](https://arxiv.org/abs/2506.21805)]
 - [2025/08] **VimGolf-Gym: OpenAI Gym Style VimGolf Environment and Benchmark** *James Brown (Cybergod AGI Research)* [[project page](https://github.com/james4Ever0/vimgolf-gym)]
-
+- [2026/04] **Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation** *Nicolas Bougie (Woven by Toyota) et al. arXiv.* [[paper](https://arxiv.org/abs/2604.09549)]
 -----------------------------------
 
 #### Multimodal
