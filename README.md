@@ -21,6 +21,9 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 
 #### ToolUse
 
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+- [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
+
 - [2023/10] **API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs.** *Minghao Li (Alibaba) et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.08244.pdf)] [[project page](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
 - [2023/05] **On the Tool Manipulation Capability of Open-source Large Language Models.** *Qiantong Xu (SambaNova) et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.16504.pdf)] [[project page](https://github.com/sambanova/toolbench)]
 - [2023/10] **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs.**  *Yujia Qin (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.16789.pdf)] [[project page](https://github.com/OpenBMB/ToolBench)]
