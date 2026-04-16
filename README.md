@@ -79,6 +79,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 ----------------------------
 
 #### Agent
+- [2026/04] **ClawBench: Can AI Agents Complete Everyday Online Tasks?** *Ziru Yun (University of Alberta) et al. arXiv.* [[paper](https://arxiv.org/abs/2604.08523)] [[project page](https://github.com/reacher-z/ClawBench)] [[website](https://claw-bench.com)] [[dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench)]
 - [2025/08] **OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows** *Weixuan Wang (University of Edinburgh, Microsoft) et al. arXiv.* [[paper](https://arxiv.org/abs/2508.09124)]
 - [2025/02] **WFGY 3.0 · Singularity Demo (BlackHole-131): Text only long horizon tension crash test for LLM agents over 131 S class problems.** *PSBigBig (independent).* [[project page](https://github.com/onestardao/WFGY)]
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *Wenqi Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2402.17574)] [[project page](https://github.com/zwq2018/Agent-Pro)]
