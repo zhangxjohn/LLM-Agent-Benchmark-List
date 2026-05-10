@@ -23,6 +23,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 
 - [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
 - [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
+- [FutureAGI future-agi](https://github.com/future-agi/future-agi) - Open-source self-hostable platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for benchmarking and improving AI agents and LLM tool-use.
 
 - [2023/10] **API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs.** *Minghao Li (Alibaba) et al. arXiv.* [[paper](https://arxiv.org/pdf/2304.08244.pdf)] [[project page](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
 - [2023/05] **On the Tool Manipulation Capability of Open-source Large Language Models.** *Qiantong Xu (SambaNova) et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.16504.pdf)] [[project page](https://github.com/sambanova/toolbench)]
