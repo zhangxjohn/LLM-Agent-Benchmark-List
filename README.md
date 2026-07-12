@@ -81,6 +81,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 
 #### Agent
 - [2026/06] **Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models (TAC).** *Jasmine Brazilek (CaML) et al. arXiv.* [[paper](https://arxiv.org/abs/2606.18142)] [[project page](https://github.com/UKGovernmentBEIS/inspect_evals/tree/main/src/inspect_evals/tac)] [[website](https://compassionbench.com)]
+- [2026/06] **PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting.** *Youran Sun (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/abs/2606.08878)] [[project page](https://github.com/WhymustIhaveaname/PerspectiveGap)] [[dataset](https://huggingface.co/datasets/sun1245/PerspectiveGap)]
 - [2026/04] **ClawBench: Can AI Agents Complete Everyday Online Tasks?** *Ziru Yun (University of Alberta) et al. arXiv.* [[paper](https://arxiv.org/abs/2604.08523)] [[project page](https://github.com/reacher-z/ClawBench)] [[website](https://claw-bench.com)] [[dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench)]
 - [2025/08] **OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows** *Weixuan Wang (University of Edinburgh, Microsoft) et al. arXiv.* [[paper](https://arxiv.org/abs/2508.09124)]
 - [2025/02] **WFGY 3.0 · Singularity Demo (BlackHole-131): Text only long horizon tension crash test for LLM agents over 131 S class problems.** *PSBigBig (independent).* [[project page](https://github.com/onestardao/WFGY)]
