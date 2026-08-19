@@ -80,6 +80,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 ----------------------------
 
 #### Agent
+- [2026/07] **Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation (MCB).** *Jasmine Brazilek (CaML) et al. arXiv.* [[paper](https://arxiv.org/abs/2607.15434)] [[project page](https://github.com/CompassionML/manager-coercion-bench)] [[website](https://compassionbench.com/mcb)]
 - [2026/06] **Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models (TAC).** *Jasmine Brazilek (CaML) et al. arXiv.* [[paper](https://arxiv.org/abs/2606.18142)] [[project page](https://github.com/UKGovernmentBEIS/inspect_evals/tree/main/src/inspect_evals/tac)] [[website](https://compassionbench.com)]
 - [2026/04] **ClawBench: Can AI Agents Complete Everyday Online Tasks?** *Ziru Yun (University of Alberta) et al. arXiv.* [[paper](https://arxiv.org/abs/2604.08523)] [[project page](https://github.com/reacher-z/ClawBench)] [[website](https://claw-bench.com)] [[dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench)]
 - [2025/08] **OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows** *Weixuan Wang (University of Edinburgh, Microsoft) et al. arXiv.* [[paper](https://arxiv.org/abs/2508.09124)]
