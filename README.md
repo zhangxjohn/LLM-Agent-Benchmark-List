@@ -29,6 +29,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2023/05] **On the Tool Manipulation Capability of Open-source Large Language Models.** *Qiantong Xu (SambaNova) et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.16504.pdf)] [[project page](https://github.com/sambanova/toolbench)]
 - [2023/10] **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs.**  *Yujia Qin (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/pdf/2307.16789.pdf)] [[project page](https://github.com/OpenBMB/ToolBench)]
 - [2024/01] **T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step.** *Zehui Chen (USTC) et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.14033.pdf)] [[project page](https://github.com/open-compass/T-Eval)]
+- [2026/10] **Tholos-Bench: 160 Scenarios for Tool-Using Agents in a Shared Workspace of Tables, Notes and Tasks.** *Mert Kaya (Eschatia Labs).* [[project page](https://eschatialabs.com/benchmarks/tholos-bench/)] [[code](https://github.com/mertkayacs/tholos)] [[dataset](https://huggingface.co/datasets/mertkayacs/tholos-bench)]
 
 ----------------------------
 
