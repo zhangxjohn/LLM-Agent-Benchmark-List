@@ -81,6 +81,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 ----------------------------
 
 #### Agent
+- [2026/08] **YYLO Benchmark: The Flexible, Isolated Evaluation Layer for Task Prompts and Project-Owned Workflow Runner YAML.** *yylo-dev (independent).* [[project page](https://github.com/yylo-dev/yylo-benchmark)] [[website](https://yylo.dev)]
 - [2026/10] **When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses.** *Zihan Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2607.26348)] [[project page](https://github.com/ZihanChen1995/when-synthetic-users-fail-a-cross-domain-benchmark-of-llm-simulated-human-survey-responses)]
 - [2026/07] **Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation (MCB).** *Jasmine Brazilek (CaML) et al. arXiv.* [[paper](https://arxiv.org/abs/2607.15434)] [[project page](https://github.com/CompassionML/manager-coercion-bench)] [[website](https://compassionbench.com/mcb)]
 - [2026/06] **Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models (TAC).** *Jasmine Brazilek (CaML) et al. arXiv.* [[paper](https://arxiv.org/abs/2606.18142)] [[project page](https://github.com/UKGovernmentBEIS/inspect_evals/tree/main/src/inspect_evals/tac)] [[website](https://compassionbench.com)]
