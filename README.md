@@ -113,6 +113,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 - [2025/08] **VimGolf-Gym: OpenAI Gym Style VimGolf Environment and Benchmark** *James Brown (Cybergod AGI Research)* [[project page](https://github.com/james4Ever0/vimgolf-gym)]
 - [2026/04] **Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation** *Nicolas Bougie (Woven by Toyota) et al. arXiv.* [[paper](https://arxiv.org/abs/2604.09549)]
 - [2026/07] **CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents** *Nicolas Bougie (Woven by Toyota) et al. arXiv.* [[paper](https://arxiv.org/abs/2608.16897)]
+- [2026/10] **Who Presses the Button? Pressure, Not Framing or the Human Cost, Drives Nuclear Escalation in Language-Model Agents.** *Kyle Clouthier (Clouthier Simulation Labs). Zenodo.* [[paper](https://doi.org/10.5281/zenodo.23452303)] [[project page](https://secondstrike.io/midnight)]
 -----------------------------------
 
 #### Multimodal
