@@ -82,6 +82,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 ----------------------------
 
 #### Agent
+- [2026/11] **SMB Bench: Measuring AI's Ability to Learn from Delayed Consequences.** *Shardul Bansal (ORO AI) et al. Technical report.* [[paper](https://oroagents.com/benchmarks/smb-bench)] [[project page](https://github.com/ORO-AI/smb-bench)] [[dataset](https://huggingface.co/datasets/oro-agents/smb-bench)]
 - [2026/11] **Measuring AI Agents as Teammates with Collaborative Intelligence.** *Sean Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2611.02633)] [[project page](https://github.com/zou-group/collaborative-intelligence)] [[website](https://zou-group.github.io/collaborative-intelligence/)]
 - [2026/10] **TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information.** *Chanwoo Park et al. arXiv.* [[paper](https://arxiv.org/abs/2610.37571)]
 - [2026/05] **TeamBench: Evaluating Agent Coordination under Enforced Role Separation.** *Yubin Kim et al. arXiv.* [[paper](https://arxiv.org/abs/2605.07073)] [[project page](https://github.com/ybkim95/TeamBench)] [[website](https://teambench.github.io)]
