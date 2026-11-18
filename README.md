@@ -82,6 +82,7 @@ In the swiftly evolving landscape of artificial intelligence, Large Language Mod
 ----------------------------
 
 #### Agent
+- [2026/11] **Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction (CrossLearnBench).** *Yunzhe Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2611.10439)]
 - [2026/11] **Measuring AI Agents as Teammates with Collaborative Intelligence.** *Sean Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2611.02633)] [[project page](https://github.com/zou-group/collaborative-intelligence)] [[website](https://zou-group.github.io/collaborative-intelligence/)]
 - [2026/10] **TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information.** *Chanwoo Park et al. arXiv.* [[paper](https://arxiv.org/abs/2610.37571)]
 - [2026/05] **TeamBench: Evaluating Agent Coordination under Enforced Role Separation.** *Yubin Kim et al. arXiv.* [[paper](https://arxiv.org/abs/2605.07073)] [[project page](https://github.com/ybkim95/TeamBench)] [[website](https://teambench.github.io)]
